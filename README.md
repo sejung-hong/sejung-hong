@@ -5,8 +5,11 @@
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat"> <!-- c++ 인코딩 -->
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/JAVA-007396?logo=Java&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Verilog-512BD4?logo=Verilog&logoColor=white&style=flat">  
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=flat">
     
   
 ### 🌱project
