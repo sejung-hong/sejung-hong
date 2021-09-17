@@ -14,8 +14,10 @@
     
   
 ### 🌱project
-* [turn-by-tyrn 클라이언트기반 도보내비게이션](https://github.com/sejung-hong/SE_Project3)    
+* [turn-by-tyrn 클라이언트기반 도보내비게이션](https://github.com/sejung-hong/Turn-by-turn-walking-navigation)  
 * [보드 쇼핑몰 구현](https://github.com/sejung-hong/SE_Project3)
   
+   
+   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejung-hong&&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejung-hong&layout=compact)
