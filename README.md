@@ -4,6 +4,7 @@
 ### 🌱Skill
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat"> <!-- c++ 인코딩 -->
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/JAVA-007396?logo=Java&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white&style=flat">
